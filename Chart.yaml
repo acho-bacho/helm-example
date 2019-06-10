@@ -1,0 +1,7 @@
+name: alpine
+description: Deploy a basic Alpine Linux pod
+version: 0.1.0
+home: https://github.com/acho-bacho/helm-example
+sources:
+  - https://github.com/acho-bacho/helm-example
+appVersion: 3.3
